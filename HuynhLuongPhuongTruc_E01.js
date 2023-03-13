@@ -5,7 +5,7 @@ console.log("\n")
 console.log("Bài 2: Tổng bình phương")
 a = 2;
 b = 4;
-const sumSquares = a*a + b*b;
+sumSquares = a*a + b*b;
 console.log(sumSquares);
 console.log("\n")
 
